@@ -1,0 +1,9 @@
+{
+  "frame": "ned",
+  "base_wind": [0.0, 3.0, 0.0],
+  "gust": { "amplitude": [3.0, 0.0, 0.0], "period_sec": 6.0, "duty": 0.35 },
+  "turbulence": { "sigma": [0.3, 0.3, 0.1], "tau_sec": 1.0 },
+  "ramp_up_sec": 3.0,
+  "seed": 1,
+  "print_every_sec": 1.0
+}
