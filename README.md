@@ -1,2 +1,2 @@
 # nakamuratomohide_drone-development_portfolio
-模擬人工衛星開発の概要をリポジトリにまと。
+模擬人工衛星開発の概要をリポジトリにまとめています。
